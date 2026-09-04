@@ -28,6 +28,8 @@
 gradle testDebugUnitTest assembleDebug
 ```
 
+GitHub Actions فایل APK دیباگ را با نام `GoldBar-Android-debug-apk` منتشر می‌کند.
+
 ## منبع مرجع
 
 نسخه مرجع ویندوز: `amirnourhan-max/GoldBar-windows-for`، tag: `v2.0.0-r12-final`.
